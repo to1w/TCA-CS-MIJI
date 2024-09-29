@@ -1,4 +1,4 @@
-# 4th_assignment_MIJI
+# 3rd_assignment_MIJI
 
 1. 과제 개요
 덧셈함수: 두 숫자를 입력하면 더한 값을 쉽게 얻을 수 있다 
