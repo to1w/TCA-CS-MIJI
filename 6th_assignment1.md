@@ -80,7 +80,8 @@ print_all_students()
 
 > 프로그램 실행 결과를 캡쳐 이미지로 첨부합니다.
 
-여기에 작성해 주세요.
+![image](https://github.com/user-attachments/assets/266174c2-2209-4783-a566-7108a669a7d4)
+
 
 
 ## 9. 문제 해결 과정 및 배운점
