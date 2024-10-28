@@ -5,7 +5,7 @@ def guess_number():
     number = random.randint(1, 100)
     attempts = 0  
 
-    print("1부터 100 사이의 숫자를 맞춰부수유!")
+    print("1부터 100 사이의 숫자를 맞춰보세요!")
 
     while True:
 
